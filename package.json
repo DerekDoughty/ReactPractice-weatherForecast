@@ -1,5 +1,5 @@
 {
-  "name": "weatherForecast",
+  "name": "weatherforecast",
   "version": "1.0.0",
   "description": "7 day weather forecast based on location",
   "main": "index.js",
